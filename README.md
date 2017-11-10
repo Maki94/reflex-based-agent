@@ -1,4 +1,4 @@
-# drone_searching
+# Implementation of a simple reflex based agent 
 
 ![alt text][logo]
 
