@@ -1,5 +1,6 @@
 # Implementation of a simple reflex based agent 
 
-![alt text][logo]
+![Implementation of a simple reflex based agent ][gif1]
+*gif demo*
 
-[logo]: https://github.com/Maki94/drone_searching/blob/master/drone.gif "Drone"
+[gif1]: https://github.com/Maki94/drone_searching/blob/master/drone.gif "Drone"
