@@ -7,4 +7,4 @@ Reflex agent is denoted by a gray triangle, blue circle represents start positio
  
 
 
-[gif1]: https://github.com/Maki94/drone_searching/blob/master/drone.gif "Drone"
+[gif1]: https://github.com/Maki94/reflex-based-agent/blob/master/demo/drone.gif "Drone"
